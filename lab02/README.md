@@ -9,6 +9,7 @@ This repository contains two CTF exercises:
 
 - `ctf01/` – Introductory challenges focusing on basic security concepts  
 - `ctf02/` – More advanced challenges requiring deeper analysis and problem-solving  
+- `ctf03/` – Additional CTF challenge 
 
 Each lab is structured as a set of tasks where you must discover hidden information (flags) by applying cybersecurity techniques.
 
