@@ -1,4 +1,4 @@
-# Organization Case Study — IT Company Providing Equipment Sales, System Integration, Security Integration, and Support Services
+# Organization presentation: IT Company Providing Equipment Sales, System Integration, Security Integration, and Support Services
 
 ## 1. Company Overview
 
